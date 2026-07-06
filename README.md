@@ -49,3 +49,10 @@ Educational utility demonstrating network socket fundamentals and basic client/s
 
 MIT License
 
+
+---
+
+## Screenshot
+
+![Demo](screenshots/demo.jpg)
+
