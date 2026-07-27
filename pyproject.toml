@@ -22,4 +22,5 @@ classifiers = [
 microsocket = "microsocket.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microsocket"]
